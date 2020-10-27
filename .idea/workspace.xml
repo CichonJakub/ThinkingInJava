@@ -15,9 +15,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1ipZBWUY6lCW8doNkd69yJec6Yq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -87,7 +89,7 @@
       <workItem from="1602606370181" duration="1871000" />
       <workItem from="1602858775449" duration="1293000" />
       <workItem from="1603112255082" duration="458000" />
-      <workItem from="1603807960892" duration="614000" />
+      <workItem from="1603807960892" duration="900000" />
     </task>
     <servers />
   </component>
@@ -131,9 +133,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="182" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1602607902042" />
-    <state x="636" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1603807972033">
+    <state x="636" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1603810512446">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="636" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603807972033" />
+    <state x="636" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603810512446" />
   </component>
 </project>
