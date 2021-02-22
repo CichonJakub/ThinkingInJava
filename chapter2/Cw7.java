@@ -19,6 +19,7 @@ public class Cw7 { // needs StaticTest & Incrementable
         System.out.println("After incrementation: Incrementable.increment() ");
         System.out.println("st1.i = " + st1.i);
         System.out.println("st2.i = " + st2.i);
+        System.out.println("StaticTest.i= " + StaticTest.i);
 
     }
 }
