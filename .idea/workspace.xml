@@ -1,15 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2bb50650-9e71-4433-a7c1-9a977f3eab5d" name="Default Changelist" comment="" />
+    <list default="true" id="2bb50650-9e71-4433-a7c1-9a977f3eab5d" name="Default Changelist" comment="chapter 5">
+      <change afterPath="$PROJECT_DIR$/chapter5/C5E10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/C5E11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/C5E9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/Tool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thinking_in_java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Thinking_in_java.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -18,23 +35,32 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1ipZBWUY6lCW8doNkd69yJec6Yq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/Studia_teleinfromatyka/III Semestr/Programowanie Obiektowe/Samochod3" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/seminarium" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -42,25 +68,60 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Hello">
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hello" />
+  <component name="RunManager" selected="Application.C5E11">
+    <configuration name="C5E10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C5E10" />
       <module name="Thinking_in_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="secound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secound" />
+    <configuration name="C5E11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C5E11" />
       <module name="Thinking_in_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C5E5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C5E5" />
+      <module name="Thinking_in_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C5E6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C5E6" />
+      <module name="Thinking_in_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C5E9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C5E9" />
+      <module name="Thinking_in_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Hello" />
-        <item itemvalue="Application.secound" />
+        <item itemvalue="Application.C5E11" />
+        <item itemvalue="Application.C5E10" />
+        <item itemvalue="Application.C5E9" />
+        <item itemvalue="Application.C5E6" />
+        <item itemvalue="Application.C5E5" />
       </list>
     </recent_temporary>
   </component>
@@ -76,6 +137,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -90,52 +152,106 @@
       <workItem from="1602858775449" duration="1293000" />
       <workItem from="1603112255082" duration="458000" />
       <workItem from="1603807960892" duration="900000" />
+      <workItem from="1603810512569" duration="641000" />
+      <workItem from="1604158136258" duration="3887000" />
+      <workItem from="1604839633070" duration="15773000" />
+      <workItem from="1605185980625" duration="189000" />
+      <workItem from="1605478615892" duration="96000" />
+      <workItem from="1605975418256" duration="1184000" />
+      <workItem from="1610625619727" duration="1191000" />
+      <workItem from="1610812658753" duration="37000" />
+      <workItem from="1610819489275" duration="2412000" />
+      <workItem from="1610893933968" duration="212000" />
+      <workItem from="1610970543600" duration="1404000" />
+      <workItem from="1611168229580" duration="1127000" />
+      <workItem from="1612880373864" duration="4880000" />
+      <workItem from="1614001921957" duration="4907000" />
+      <workItem from="1614083701590" duration="6724000" />
+      <workItem from="1614163305107" duration="10195000" />
+      <workItem from="1614257737258" duration="1874000" />
+      <workItem from="1614427478250" duration="2364000" />
+      <workItem from="1614612387086" duration="3867000" />
+      <workItem from="1614619963038" duration="31000" />
+      <workItem from="1614769052869" duration="3030000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1603810548098</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603810548098</updated>
+    </task>
+    <task id="LOCAL-00002" summary="seminarium">
+      <created>1604167828660</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604167828660</updated>
+    </task>
+    <task id="LOCAL-00003" summary="seminarium">
+      <created>1605478704377</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605478704377</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2021 start">
+      <created>1610819754393</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610819754393</updated>
+    </task>
+    <task id="LOCAL-00005" summary="exercises after 1&amp;2 chapters">
+      <created>1612886060660</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612886060660</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ending exercises chap2">
+      <created>1614006436656</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614006436657</updated>
+    </task>
+    <task id="LOCAL-00007" summary="chapter3 part1">
+      <created>1614098381495</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1614098381495</updated>
+    </task>
+    <task id="LOCAL-00008" summary="chapter 4">
+      <created>1614188562096</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1614188562096</updated>
+    </task>
+    <task id="LOCAL-00009" summary="chapter 5">
+      <created>1614619979014</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1614619979014</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="552" y="198" key="#Project_Structure" timestamp="1602606583647">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="552" y="198" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1602606583647" />
-    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602607131189">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602607131189" />
-    <state x="751" y="380" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1602607085947">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="751" y="380" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1602607085947" />
-    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1602607017407">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1602607017407" />
-    <state width="1877" height="266" key="GridCell.Tab.0.bottom" timestamp="1602864012042">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1877" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1602864012042" />
-    <state width="1877" height="266" key="GridCell.Tab.0.center" timestamp="1602864012042">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1877" height="266" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1602864012042" />
-    <state width="1877" height="266" key="GridCell.Tab.0.left" timestamp="1602864012042">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1877" height="266" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1602864012042" />
-    <state width="1877" height="266" key="GridCell.Tab.0.right" timestamp="1602864012042">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1877" height="266" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602864012042" />
-    <state x="461" y="182" key="SettingsEditor" timestamp="1602607902042">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="461" y="182" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1602607902042" />
-    <state x="636" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1603810512446">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="636" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603810512446" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <MESSAGE value="seminarium" />
+    <MESSAGE value="2021 start" />
+    <MESSAGE value="exercises after 1&amp;2 chapters" />
+    <MESSAGE value="ending exercises chap2" />
+    <MESSAGE value="chapter3 part1" />
+    <MESSAGE value="chapter 4" />
+    <MESSAGE value="chapter 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 5" />
   </component>
 </project>
