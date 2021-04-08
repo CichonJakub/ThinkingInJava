@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2bb50650-9e71-4433-a7c1-9a977f3eab5d" name="Default Changelist" comment="chapter 5">
-      <change afterPath="$PROJECT_DIR$/chapter5/C5E10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter5/C5E11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter5/C5E9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter5/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter5/Tool.java" afterDir="false" />
+    <list default="true" id="2bb50650-9e71-4433-a7c1-9a977f3eab5d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter16/Tables_fun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/C5E14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/Chose_screen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/Screen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/Words.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/motorola/Final.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/motorola/Final2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/motorola/Motka1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/motorola/MyFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/motorola/MyFunction2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/motorola/MyFunction3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/motorola/My_exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/motorola/My_exception2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/motorola/Safari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/motorola/TheirFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/motorola/Their_exception.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Thinking_in_java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Thinking_in_java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/C5E1.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/C5E1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +59,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -61,67 +74,69 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C5E11">
-    <configuration name="C5E10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C5E10" />
+  <component name="RunManager" selected="Application.Final2">
+    <configuration name="Final" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Final" />
       <module name="Thinking_in_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C5E11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C5E11" />
+    <configuration name="Final2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Final2" />
       <module name="Thinking_in_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C5E5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C5E5" />
+    <configuration name="Motka1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Motka1" />
       <module name="Thinking_in_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C5E6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C5E6" />
+    <configuration name="My_exception2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="My_exception2" />
       <module name="Thinking_in_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C5E9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C5E9" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test1" />
       <module name="Thinking_in_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C5E11" />
-        <item itemvalue="Application.C5E10" />
-        <item itemvalue="Application.C5E9" />
-        <item itemvalue="Application.C5E6" />
-        <item itemvalue="Application.C5E5" />
+        <item itemvalue="Application.Final2" />
+        <item itemvalue="Application.Final" />
+        <item itemvalue="Application.Motka1" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.My_exception2" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +187,14 @@
       <workItem from="1614427478250" duration="2364000" />
       <workItem from="1614612387086" duration="3867000" />
       <workItem from="1614619963038" duration="31000" />
-      <workItem from="1614769052869" duration="3030000" />
+      <workItem from="1614769052869" duration="5510000" />
+      <workItem from="1615043652425" duration="2865000" />
+      <workItem from="1615383853128" duration="118000" />
+      <workItem from="1616071350637" duration="11000" />
+      <workItem from="1617208827182" duration="2728000" />
+      <workItem from="1617278271178" duration="12593000" />
+      <workItem from="1617315809303" duration="1045000" />
+      <workItem from="1617886170290" duration="434000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1603810548098</created>
@@ -237,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614619979014</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="chapter 5">
+      <created>1614775800937</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1614775800937</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

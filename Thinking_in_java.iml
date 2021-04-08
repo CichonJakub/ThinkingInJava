@@ -10,6 +10,8 @@
       <sourceFolder url="file://$MODULE_DIR$/chapter3" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter4" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter16" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/motorola" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/seminarium/ptaki" />
     </content>
     <orderEntry type="inheritedJdk" />
